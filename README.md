@@ -9,4 +9,4 @@ Find Video's on : <a href="https://www.youtube.com/@nadik4you" target="_blank">N
 
 Here we have list of projects:
 
-01. Pixel Art Generator
+01. Mini Music 
