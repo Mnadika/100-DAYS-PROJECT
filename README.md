@@ -1,5 +1,5 @@
 # 100 Days Project
-![alt text](?raw=true)
+![alt text](https://github.com/Mnadika/100-DAYS-PROJECT/blob/main/Mini%20Music/1.jpg?raw=true)
 Collection of <a href="https://www.youtube.com/@nadik4you"></a>
 ### Tutorial Video's
 
